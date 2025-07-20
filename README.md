@@ -8,8 +8,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviofilho001&show_icons=true&theme=dark)
 
 ## 📈 Linguagens mais usadas:
-## 📊 GitHub Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviofilho001&layout=compact&hide=jupyter%20notebook,elixir,java)
 
 ## 🚀 Tecnologias que uso
