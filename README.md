@@ -1,14 +1,16 @@
 # Oi 👋, eu sou Flavio Mesquita
 
-🎓 Estudante de Ciência da Computação na UFPB 
-💼 Atualmente trabalhando na empresa **DrClin** desenvolvendo aplicativo mobile
-🌱 Aprendendo C#, .NET MAUI, Python, AWS, WebApis, Xamarin e muito mais
+- 🎓 Estudante de Ciência da Computação na UFPB 
+- 💼 Atualmente trabalhando na empresa **DrClin** desenvolvendo aplicativo mobile
+- 🌱 Aprendendo C#, .NET MAUI, Python, AWS, WebApis, Xamarin e muito mais
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviofilho001&show_icons=true&theme=dark)
 
 ## 📈 Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviofilho001&layout=compact&theme=dark)
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviofilho001&layout=compact&hide=jupyter%20notebook,elixir,java)
 
 ## 🚀 Tecnologias que uso
 
