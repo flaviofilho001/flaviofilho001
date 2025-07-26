@@ -1,15 +1,22 @@
 # Oi 👋, eu sou Flavio Mesquita
 
-- 🎓 Estudante de Ciência da Computação na UFPB 
+- 🎓 Estudante de Ciência da Computação na UFPB e ganhador Hackathon Oceano Digital
 - 💼 Atualmente trabalhando na empresa **DrClin** desenvolvendo aplicativo mobile
 - 🌱 Aprendendo C#, .NET MAUI, Python, AWS, WebApis, Xamarin e muito mais
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviofilho001&show_icons=true&theme=dark)
-
-## 📈 Linguagens mais usadas:
+<div>
+<div>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviofilho001&show_icons=true&theme=dark)
+  
+</div>
+<div>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviofilho001&layout=compact&hide=jupyter%20notebook,elixir,java)
 
+</div>
+</div>
 ## 🚀 Tecnologias que uso
 
 <p align="left">
@@ -34,15 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
   <img src="https://img.icons8.com/ios-filled/50/mac-os.png" width="40" title="iOS"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaviofilho001&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviofilho001&layout=compact&theme=radical" height="150"/>
-</div>
 
 ---
 
